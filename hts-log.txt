@@ -1,0 +1,52 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 17 Sep 2021 22:01:39 at https://bunnyinject.fun +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://bunnyinject.fun* +*https://bunnyinject.fun*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://bunnyinject.fun -O1 "C:\My Web Sites\sifedev" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://bunnyinject.fun* +*https://bunnyinject.fun* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:02:01	Error: 	"Not Found" (404) at link https://bunnyinject.fun/wrpCbcK2w44/ (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/delta.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/spotify++.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/odyssey.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/ppsspp.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/ipogo.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/amongushack.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/inds.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/taurine.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/cercube.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/issb.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/agario.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/filza.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/spidermanmayhem.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/img/byteguiijjh.png (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/twitch++.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/picsart++.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/watusi.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/reddit++.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/byte++.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/kinemaster++.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/itorrent.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/spooferx.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/electra.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/bitlifehack.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/8ballhack.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/chimera.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/nestopia.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/deezer.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/videostar.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/play.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/etason.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/instagram++.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/unc0ver.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/slugitout2hack.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/utm.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/gba4ios.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/spotifyred.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/spotifyblue.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/spotifyorange.plist (from https://bunnyinject.fun/)
+22:02:10	Error: 	"Not Found" (404) at link https://bunnyinject.fun/itms-services://?action=download-manifest&url=https://bunnyinject.fun/plists/spotifypink.plist (from https://bunnyinject.fun/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 33 seconds : 107 links scanned, 65 files written (2993148 bytes overall) [2837388 bytes received at 85981 bytes/sec], 575710 bytes transferred using HTTP compression in 59 files, ratio 37%, 5.3 requests per connection
+(41 errors, 0 warnings, 0 messages)
