@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict> n
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://up-ipa.com/uploads/up-ipa.com%D9%85%D8%B4%D8%BA%D9%84-%D8%B3%D9%84%D8%A7%D9%8A%D8%B1-3-5-1633788461.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string> https://icons.appinstallerios.com/Unc0verIcon.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://icons.appinstallerios.com/Unc0verIcon.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.app-mo.ASdownloader</string>
+				<key>bundle-version</key>
+				<string>3.5</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>TALAL Apps- مشغل سلاير</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
