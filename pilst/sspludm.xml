@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://up-ipa.com/uploads/up-ipa.com%D8%A7%D9%86%D9%85%D9%8A-%D8%B3%D9%84%D8%A7%D9%8A%D8%B1-1-2-1632931783.ipa</string>
+					<string>https://up-ipa.com/uploads/up-ipa.com%D8%A7%D9%86%D9%85%D9%8A-%D8%B3%D9%84%D8%A7%D9%8A%D8%B1-1-2-1634878823.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,14 +29,14 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.prriddd</string>
+				<string>com.talal</string>
 				<key>bundle-version</key>
-				<string>1.1</string>
+				<string>1.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
 				<string>
-شكرا على التحميل
+تطبيق لمشاهدت الانمي 
 TALAL Apps
 </string>
 			</dict>
